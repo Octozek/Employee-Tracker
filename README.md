@@ -6,7 +6,6 @@ The Employee Tracker is a command-line application built to manage a company's e
 
 ![Project Image](./assets/project.png)
 
-![Project Image](./assets/project.png)
 
 ## Table of Contents
 
